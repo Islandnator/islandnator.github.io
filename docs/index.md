@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="utf-8">
+ <title>Darius Eiland's Personal Story</title>
+ </head>
 
-You can use the [editor on GitHub](https://github.com/Islandnator/islandnator.github.io/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+<body>
+	<h1>27 SEP 2020 Darius Eiland Interests and Hobbies</h1>
+	<p>Hi class, my name is Darius Eiland. I am currently serving in the U.S. Air Force doing human resource work. I enjoy relaxing and
+	occasionally playing video games. My hobbies include collecting sneakers, financial investing, and watching youtube. Although, I 
+	have been in the military for the past seven years, I don't plan on retiring. I am single with no kids and and I don't expect that
+	to change anytime soon. I would like to do more traveling at some point as I also enjoy  driving on the open road. Being able to
+	afford nicer vehicles some day is definitly a goal of mine.<p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Islandnator/islandnator.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+	<p>With a degree in programming, and IT certifications, I aspire to work in the IT career field as a Full Stack Web Developer or perhaps a DevOps 
+	(Developer Operations). Network Admistrator and IT Support Specialists are also good careers to I am exploring. The great 
+</body>
+</html>
