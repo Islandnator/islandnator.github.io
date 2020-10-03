@@ -14,6 +14,8 @@
 	afford nicer vehicles some day is definitly a goal of mine.<p>
 
 	<p>With a degree in programming, and IT certifications, I aspire to work in the IT career field as a Full Stack Web Developer or perhaps a DevOps 
-	(Developer Operations). Network Admistrator and IT Support Specialists are also good careers to I am exploring. The great 
+	(Developer Operations). Network Admistrator and IT Support Specialists are also good careers I am exploring. The great aspect of these careers in 
+	my opinion is work autonomy giving you the freedom to work remotely and set your own hours. You can also freelance as a programmer/developer. The oppotunities 
+	for career advancement and increasing pay presents the ideal job for me to pursue.<p>
 
 
