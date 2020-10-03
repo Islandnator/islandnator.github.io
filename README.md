@@ -18,6 +18,6 @@
 	my opinion is work autonomy giving you the freedom to work remotely and set your own hours. You can also freelance as a programmer/developer. The oppotunities 
 	for career advancement and increasing pay presents the ideal job for me to pursue.<p>
 	
-	![20180408_224839](20180408_224839.jpg)
+	https://user-images.githubusercontent.com/71987838/94801442-e6629780-039a-11eb-8410-10bf14bf98c9.jpg
 
 
