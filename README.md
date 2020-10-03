@@ -16,6 +16,5 @@
 	(Developer Operations). Network Admistrator and IT Support Specialists are also good careers I am exploring. The great aspect of these careers in 
 	my opinion is work autonomy giving you the freedom to work remotely and set your own hours. You can also freelance as a programmer/developer. The oppotunities 
 	for career advancement and increasing pay presents the ideal job for me to pursue.<p>
-	![](https://user-images.githubusercontent.com/71987838/94982156-35204680-04ed-11eb-8bef-a3f8509f19dd.jpg)
-
+	![](images/shoes.jpg)
 
