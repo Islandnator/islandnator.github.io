@@ -12,7 +12,6 @@
 	have been in the military for the past seven years, I don't plan on retiring. I am single with no kids and and I don't expect that
 	to change anytime soon. I would like to do more traveling at some point as I also enjoy  driving on the open road. Being able to
 	afford nicer vehicles some day is definitly a goal of mine.<p>
-
 	<p>With a degree in programming, and IT certifications, I aspire to work in the IT career field as a Full Stack Web Developer or perhaps a DevOps 
 	(Developer Operations). Network Admistrator and IT Support Specialists are also good careers I am exploring. The great aspect of these careers in 
 	my opinion is work autonomy giving you the freedom to work remotely and set your own hours. You can also freelance as a programmer/developer. The oppotunities 
